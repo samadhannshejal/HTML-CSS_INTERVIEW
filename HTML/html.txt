@@ -16,4 +16,38 @@ Answer : Data attribute is allows to store extra information  directly in HTML e
        -Useful to storing metadata, id for dynamic behavior  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------         
-                                
+3) What is semantic HTML? Why is it important, and can you provide examples of semantic tags introduced in HTML5?
+Answer : semantic element deliver the meaning  or purpose , this improve SEO , making content more understandable
+       - header, nav , footer , article ,aside
+       - Improve SEO 
+       - Improve code readability and maintainability
+       - Increase accessibility for screen readers
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4) What is the doctype declaration in HTML, and why is it necessary?
+Answer : The doctype declaration is used to define the version of HTML being used 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5) Explain the role of the meta tag in HTML and its importance for SEO and accessibility. Can you name some common attributes?
+Answer : Meta tags provide the metadata about HTML document ,such as character encoding , viewport setting , SEO related info  
+       - charset-"UTF-8"
+       - name="viewport" content="width=device-width, initial-scale=1"  , control the page scale in difference device
+       - name ="description" , provide brief summary about page 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6) What are web accessibility standards (WAI-ARIA)? How do you implement them in HTML?
+Answer : WAI-ARIA (Web Accessibility Initiative -Accessible Rich Internet Applications ) is set of attributes that makes web Applications more Accessible, especial
+         user  who can rely on assistive technology like screen readers
+       - role="navigation"
+       - area-lable="submit"
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+7) What is the purpose of the srcset attribute in the <img> tag? How does it improve web performance?
+Answer : The srcset attribute allows browser to choose the best image resolution based on screen size and pixel density of the device
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+8) 
