@@ -1,1 +1,19 @@
 *************************************************************HTML INTERVIEW QUESTIONS*********************************************************************************
+
+1) What is the difference between block and inline elements in HTML? Can you give examples of each?
+Answer : Block Level : -Block Level element take full width as parent have 
+                       -Block level element always start from new line
+                       -h1, div , p ,article,section,table,form,main,nav
+
+    -Inline Element : - Inline elements take width  as much as necessary 
+                      - Inline element do not start from new line 
+                      - a,strong em,img,label,br,input,i     
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2) Explain the purpose of the data-* attribute in HTML and when to use it. ?
+Answer : Data attribute is allows to store extra information  directly in HTML element  , which can be accessed by using JS 
+       - <div data-userId="1234"></div>
+       -Useful to storing metadata, id for dynamic behavior  
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------         
+                                
