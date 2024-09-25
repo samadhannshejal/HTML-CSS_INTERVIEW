@@ -28,4 +28,4 @@ Answer :
 10)What is keyframe rule in css
 11) how to transform property  in css
 12) explain media query 
-13) What is specificity rules
+13) What is specificity rules   
