@@ -1,1 +1,11 @@
-CSS INTERVIEW QUESTIONS 
+*******************************************************************************CSS INTERVIEW QUESTIONS***************************************************************
+1) what is selector in css , explain different type selector
+2) What is box-sizing property 
+3) what is different positions in css
+4) what is display flex and   grid  , and what is difference between them
+5) what is pseudo class and pseudo element
+8) What is box model in css
+9)How do you create css animations
+10)What is keyframe rule in css
+11) how to transform property  in css
+12) explain media query 
